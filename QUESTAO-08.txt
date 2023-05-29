@@ -1,0 +1,8 @@
+Dois desenvolvedores estão trabalhando no mesmo projeto e na mesma branch. O primeiro realiza um push implementando uma nova
+funcionalidade, enquanto o segundo realiza alterações nas mesmas linhas de código, porém sem essa nova funcionalidade.
+Quando o segundo desenvolvedor tenta realizar o push, ele percebe que ocorre um conflito e precisa resolvê-lo.
+O que o segundo desenvolvedor deveria fazer? (Responda com o fluxo de trabalho que ele deverá realizar)
+
+RESPOSTA: Primeiramente, ele deve verificar os dois commits conflitantes na branch e captar a ideia do desenvolvedor ao criar aquela modificação.
+Após essa compreensão, é necessário resolver os conflitos presentes e garantir que a aplicação estará se comportando da forma esperada,
+depois disso, suba a resolução dos conflitos juntamente com as alterações que era de sua responsabilidade.

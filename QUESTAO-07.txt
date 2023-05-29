@@ -1,0 +1,10 @@
+Suponha que você esteja trabalhando em um branch "feature/login" do Git e tenha feito algumas alterações em seus arquivos.
+No entanto, surge uma urgência e você precisa mudar para outra branch "hotfix/cadastro" para corrigir um bug. Visando evitar
+que as alterações sejam perdidas e que não precise fazer um commit de uma funcionalidade incompleta, quais comandos devem ser
+utilizados para arquivar as alterações (antes de mudar para a branch "hotfix/cadastro") e para aplicar novamente as alterações
+(após voltar para a branch "feature/login")?
+
+
+RESPOSTA: Você pode utilizar o git stash na branch atual para registrar essas alteracoes sem que a branch seja comprometida. E após fazer
+as modificações necessárias na branch anterior, pode utilizar o git stash apply para recuperar as modificações.
+

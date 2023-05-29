@@ -1,0 +1,3 @@
+Ao realizar o comando git checkout para uma branch que existe apenas no repositório remoto, o que o comando realiza?
+
+Ele cria essa branch localmente, porém para pegar as alterações contidas nela, será necessário efetuar um git pull.
