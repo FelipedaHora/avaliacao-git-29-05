@@ -1,0 +1,8 @@
+Qual a diferença entre os comandos git fetch e git pull?
+
+Ambos são destinados para buscar o estado atual do repositório remoto, porém, a diferença entre os dois é que ao executar o GIT FETCH,
+o estado atual do seu código não é alterado, ou seja, ele somente verifica se no servidor remoto há alterações mais recentes do que o estado
+atual do seu código.
+
+GIT PULL - Ele verifica se há alterações recentes no servidor porém, ele verifica e já trás essas mudanças, podendo causar conflitos com o
+seu código atual.
