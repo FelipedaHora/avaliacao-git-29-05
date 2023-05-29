@@ -1,0 +1,13 @@
+Qual a diferença entre os comandos git commit e git push?
+
+RESPOSTA:
+GIT COMMIT - Você armazena localmente um registro do momento atual do seu código, isto é, a partir do momento que voce registra um commit
+você sinaliza uma mudança e para controle, usuários registram um texto para identificar o que foi feito nesta mudança.
+
+GIT PUSH - É o momento que todas as alterações locais são enviadas para o repositório/servidor remoto.
+
+DIFERENÇA ENTRE OS DOIS - Todas as mudanças feitas feitas no código são sinalizadas por COMMITS mas só chegam de fato
+ao seu destino final(repositório remoto), a partir do momento que é feito o git push. Traduzindo para uma linguagem informal e direta,
+o COMMIT REGISTRA A ALTERAÇÃO e o PUSH ENVIA A ALTERAÇÃO. 
+ 
+

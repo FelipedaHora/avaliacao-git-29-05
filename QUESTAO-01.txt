@@ -1,0 +1,3 @@
+Quando você estiver incerto sobre como usar um comando Git específico, qual argumento você utiliza para obter orientações adicionais?
+
+RESPOSTA: git help --all
